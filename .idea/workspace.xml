@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b3c63051-4cd7-4a79-a1f2-2e4c866e486b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Less File" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="ProjectId" id="1Z1Dliwxcev20NfqS22ZhueQ2GO" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="NewWatcherDialog.advanced.open" value="true" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://C:/Users/pavankv/Desktop/Design/portfolio/portfolio.html" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/images" />
+    <property name="list.type.of.created.stylesheet" value="Less" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="watcher.settings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\pavankv.AUSTINMEDSOL\Desktop\desktop files\Design\newportfolio" />
+      <recent name="C:\Users\pavankv.AUSTINMEDSOL\Desktop\desktop files\Design\newportfolio\images\css" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\pavankv.AUSTINMEDSOL\Desktop\desktop files\Design\newportfolio\images" />
+      <recent name="C:\Users\pavankv\Desktop\Design\portfolio" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b3c63051-4cd7-4a79-a1f2-2e4c866e486b" name="Default Changelist" comment="" />
+      <created>1562242439954</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1562242439954</updated>
+      <workItem from="1562242441444" duration="65055000" />
+      <workItem from="1562831560101" duration="1414000" />
+      <workItem from="1563172977767" duration="15987000" />
+      <workItem from="1563202199248" duration="20042000" />
+      <workItem from="1563360407788" duration="1701000" />
+      <workItem from="1563455188849" duration="2107000" />
+      <workItem from="1564042186210" duration="1110000" />
+      <workItem from="1583997861438" duration="25578000" />
+      <workItem from="1584454257781" duration="6134000" />
+      <workItem from="1584514821057" duration="76000" />
+      <workItem from="1584697252849" duration="5853000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="698" y="329" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1583997918667">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="698" y="329" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1583997918667" />
+    <state x="572" y="231" width="776" height="603" key="EditFileWatcherDialog" timestamp="1584006556584">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="572" y="231" width="776" height="603" key="EditFileWatcherDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1584006556584" />
+    <state x="740" y="277" key="FileChooserDialogImpl" timestamp="1584514855045">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="277" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1584514855045" />
+    <state x="463" y="165" key="SettingsEditor" timestamp="1584006559254">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="463" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1584006559254" />
+    <state x="668" y="347" key="com.intellij.ide.util.TipDialog" timestamp="1584514821228">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="668" y="347" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1584514821228" />
+    <state x="614" y="137" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1584093424330">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="614" y="137" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1584093424330" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1584701427478">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1584701427478" />
+  </component>
+</project>
